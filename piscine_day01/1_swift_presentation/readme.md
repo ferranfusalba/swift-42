@@ -1,8 +1,8 @@
-swiftc hello_world.swift
+swiftc hello_world.swift\n
 ./hello_world
 
-swift hello_world.swift
+swift hello_world.swift\n
 
-swift
-var toto = 12
+swift\n
+var toto = 12\n
 print(toto)
